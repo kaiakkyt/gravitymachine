@@ -1,0 +1,20 @@
+{
+  "category.gravitymachine": "Машина гравитации",
+  "key.gravitymachine.decrease": "Уменьшить гравитацию",
+  "key.gravitymachine.increase": "Увеличить гравитацию",
+  "key.gravitymachine.reset": "Сбросить гравитацию",
+  "key.gravitymachine.config": "Быстро открыть настройки",
+  "config.gravitymachine.title": "GravityMachine",
+  "config.gravitymachine.step": "Шаг (увеличение/уменьшение)",
+  "config.gravitymachine.reset_cooldown": "Время восстановления сброса",
+  "config.gravitymachine.play_sounds": "Воспроизводить звуки",
+  "config.gravitymachine.minimum": "Минимальная гравитация",
+  "config.gravitymachine.maximum": "Максимальная гравитация",
+  "config.gravitymachine.default": "Гравитация по умолчанию",
+  "config.gravitymachine.display_position": "Положение отображения гравитации",
+  "config.gravitymachine.position.top_left": "Вверху слева",
+  "config.gravitymachine.position.top_right": "Вверху справа",
+  "config.gravitymachine.position.bottom_right": "Внизу справа",
+  "config.gravitymachine.position.bottom_left": "Внизу слева",
+  "config.gravitymachine.position.disabled": "Отключено"
+}

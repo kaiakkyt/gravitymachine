@@ -1,0 +1,20 @@
+{
+  "category.gravitymachine": "The Gravity Machine",
+  "key.gravitymachine.decrease": "Decrease Gravity",
+  "key.gravitymachine.increase": "Increase Gravity",
+  "key.gravitymachine.reset": "Reset Gravity",
+  "key.gravitymachine.config": "Quick Open Configuration",
+  "config.gravitymachine.title": "GravityMachine",
+  "config.gravitymachine.step": "Step (increase/decrease)",
+  "config.gravitymachine.reset_cooldown": "Reset Cooldown",
+  "config.gravitymachine.play_sounds": "Play Sounds",
+  "config.gravitymachine.minimum": "Minimum Gravity",
+  "config.gravitymachine.maximum": "Maximum Gravity",
+  "config.gravitymachine.default": "Default Gravity",
+  "config.gravitymachine.display_position": "Gravity Display Position",
+  "config.gravitymachine.position.top_left": "Top Left",
+  "config.gravitymachine.position.top_right": "Top Right",
+  "config.gravitymachine.position.bottom_right": "Bottom Right",
+  "config.gravitymachine.position.bottom_left": "Bottom Left",
+  "config.gravitymachine.position.disabled": "Disabled"
+}

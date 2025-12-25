@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "sphericality",
+  "version": "${version}",
+  "name": "Sphericality",
+  "description": "A test fabric mod for 1.21.6",
+  "authors": [
+    "KaiakK"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/sphericality/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "kaiakk.sphericality.Sphericality"
+    ],
+    "client": [
+      "kaiakk.sphericality.client.SphericalityClient"
+    ],
+    "fabric-datagen": [
+      "kaiakk.sphericality.client.SphericalityDataGenerator"
+    ]
+  },
+  "mixins": [
+    "sphericality.mixins.json",
+    {
+      "config": "sphericality.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "1.21.6"
+  }
+}

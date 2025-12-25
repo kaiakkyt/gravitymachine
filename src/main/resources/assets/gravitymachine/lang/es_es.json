@@ -1,0 +1,20 @@
+{
+  "category.gravitymachine": "La máquina de gravedad",
+  "key.gravitymachine.decrease": "Disminuir la gravedad",
+  "key.gravitymachine.increase": "Aumentar la gravedad",
+  "key.gravitymachine.reset": "Restablecer la gravedad",
+  "key.gravitymachine.config": "Abrir configuración rápida",
+  "config.gravitymachine.title": "GravityMachine",
+  "config.gravitymachine.step": "Paso (aumentar/disminuir)",
+  "config.gravitymachine.reset_cooldown": "Tiempo de reutilización para restablecer",
+  "config.gravitymachine.play_sounds": "Reproducir sonidos",
+  "config.gravitymachine.minimum": "Gravedad mínima",
+  "config.gravitymachine.maximum": "Gravedad máxima",
+  "config.gravitymachine.default": "Gravedad por defecto",
+  "config.gravitymachine.display_position": "Posición de visualización de la gravedad",
+  "config.gravitymachine.position.top_left": "Arriba a la izquierda",
+  "config.gravitymachine.position.top_right": "Arriba a la derecha",
+  "config.gravitymachine.position.bottom_right": "Abajo a la derecha",
+  "config.gravitymachine.position.bottom_left": "Abajo a la izquierda",
+  "config.gravitymachine.position.disabled": "Desactivado"
+}

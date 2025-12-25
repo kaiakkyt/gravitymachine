@@ -1,0 +1,20 @@
+{
+  "category.gravitymachine": "Gravitationsmaskinen",
+  "key.gravitymachine.decrease": "Minska gravitationen",
+  "key.gravitymachine.increase": "Öka gravitationen",
+  "key.gravitymachine.reset": "Återställ gravitationen",
+  "key.gravitymachine.config": "Öppna snabbkonfiguration",
+  "config.gravitymachine.title": "GravityMachine",
+  "config.gravitymachine.step": "Steg (öka/minska)",
+  "config.gravitymachine.reset_cooldown": "Återställningsfördröjning",
+  "config.gravitymachine.play_sounds": "Spela upp ljud",
+  "config.gravitymachine.minimum": "Minsta gravitation",
+  "config.gravitymachine.maximum": "Högsta gravitation",
+  "config.gravitymachine.default": "Standardgravitation",
+  "config.gravitymachine.display_position": "Position för gravitationsvisning",
+  "config.gravitymachine.position.top_left": "Uppe till vänster",
+  "config.gravitymachine.position.top_right": "Uppe till höger",
+  "config.gravitymachine.position.bottom_right": "Nere till höger",
+  "config.gravitymachine.position.bottom_left": "Nere till vänster",
+  "config.gravitymachine.position.disabled": "Inaktiverad"
+}

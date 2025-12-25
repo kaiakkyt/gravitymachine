@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "gravitymachine",
+  "version": "${version}",
+  "name": "GravityMachine",
+  "description": "Adjust and manipulate gravity levels with custom keybinds and configurable settings!",
+  "authors": [
+    "KaiakK"
+  ],
+  "contact": {
+    "homepage": "https://github.com/kaiakkyt",
+    "sources": "https://github.com/KaiakK/GravityMachine"
+  },
+  "license": "GPL-3.0",
+  "icon": "assets/gravitymachine/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "kaiakk.sphericality.Sphericality"
+    ],
+    "client": [
+      "kaiakk.sphericality.client.SphericalityClient"
+    ],
+    "fabric-datagen": [
+      "kaiakk.sphericality.client.SphericalityDataGenerator"
+    ],
+    "modmenu": [
+      "kaiakk.sphericality.client.ModMenuIntegration"
+    ]
+  },
+  "mixins": [
+    "gravitymachine.mixins.json",
+    {
+      "config": "gravitymachine.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "1.21.6" 
+  },
+  "recommends": {
+    "modmenu": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.github": "github.com"
+      },
+      "badges": [
+        "utility"
+      ]
+    }
+  }
+}

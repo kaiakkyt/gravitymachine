@@ -1,0 +1,20 @@
+{
+  "category.gravitymachine": "Die Gravitätsmaschine",
+  "key.gravitymachine.decrease": "Schwerkraft verringern",
+  "key.gravitymachine.increase": "Schwerkraft erhöhen",
+  "key.gravitymachine.reset": "Schwerkraft zurücksetzen",
+  "key.gravitymachine.config": "Schnellkonfiguration öffnen",
+  "config.gravitymachine.title": "GravityMachine",
+  "config.gravitymachine.step": "Schritt (erhöhen/verringern)",
+  "config.gravitymachine.reset_cooldown": "Abklingzeit für Zurücksetzen",
+  "config.gravitymachine.play_sounds": "Sounds abspielen",
+  "config.gravitymachine.minimum": "Minimale Schwerkraft",
+  "config.gravitymachine.maximum": "Maximale Schwerkraft",
+  "config.gravitymachine.default": "Standard-Schwerkraft",
+  "config.gravitymachine.display_position": "Position der Schwerkraftanzeige",
+  "config.gravitymachine.position.top_left": "Oben links",
+  "config.gravitymachine.position.top_right": "Oben rechts",
+  "config.gravitymachine.position.bottom_right": "Unten rechts",
+  "config.gravitymachine.position.bottom_left": "Unten links",
+  "config.gravitymachine.position.disabled": "Deaktiviert"
+}
